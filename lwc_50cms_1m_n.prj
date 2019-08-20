@@ -1,0 +1,9 @@
+Projection    UTM
+Zone          12
+Datum         NAD83
+Zunits         METERS
+Units        METERS
+Spheroid      GRS80
+Xshift        50000
+Yshift        1000000
+Parameters    
